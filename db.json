@@ -3,12 +3,6 @@
     {CustOrderNo: 'WEB00001', SubCustOrderNo: 2, OMSCustOrderNo: 5209154, OrderRequestorId: 19011,
         OrderRequestorType: '', DeliveryType: 'S', CustomerFirstName: 'S', CustomerLastName: 'NIKHIL',
         CustId: 11223345, CustPhoneNo: 9450612378, PickLoc: 1, PickLocDescription: '', PayInStore: 'N' },
-    { CustOrderNo: 'WEB00002', SubCustOrderNo: 3, OMSCustOrderNo: 5209155, OrderRequestorId: 19012,
-        OrderRequestorType: '', DeliveryType: 'S', CustomerFirstName: 'B', CustomerLastName: 'RAM',
-        CustId: 11223346, CustPhoneNo: 9451023678, PickLoc: 2, PickLocDescription: '', PayInStore: 'N'},
-    { CustOrderNo: 'WEB00003', SubCustOrderNo: 4, OMSCustOrderNo: 5209156, OrderRequestorId: 19013,
-        OrderRequestorType: '', DeliveryType: 'S', CustomerFirstName: 'P', CustomerLastName: 'NICK',
-        CustId: 11223347, CustPhoneNo: 9456712038, PickLoc: 3, PickLocDescription: '', PayInStore: 'N' }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
